@@ -1,2 +1,3 @@
 class ClaseDemo {
+  int id;
 }
